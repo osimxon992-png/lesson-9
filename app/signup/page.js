@@ -19,7 +19,7 @@ function page() {
 
       <button onClick={handlenavigate}>Sign in</button>
       <button onClick={navigateBack}>Back</button>
-      <button onClick={replacenavigation}>Route almashtirish</button>
+      <button onClick={replacenavigation}>Route Almashtirish</button>
     </div>
   );
 }
